@@ -239,3 +239,11 @@ C:\Users\Vagner Araújo\Documents\GitHub\GeekShopping\GeekShopping.Web\bin\Debug
 C:\Users\Vagner Araújo\Documents\GitHub\GeekShopping\GeekShopping.Web\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Vagner Araújo\Documents\GitHub\GeekShopping\GeekShopping.Web\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\Vagner Araújo\Documents\GitHub\GeekShopping\GeekShopping.Web\obj\Debug\net6.0\GeekShopping.Web.csproj.CopyComplete
+C:\Users\Vagner Araújo\Documents\GitHub\GeekShopping\GeekShopping.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\Vagner Araújo\Documents\GitHub\GeekShopping\GeekShopping.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Vagner Araújo\Documents\GitHub\GeekShopping\GeekShopping.Web\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Vagner Araújo\Documents\GitHub\GeekShopping\GeekShopping.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Vagner Araújo\Documents\GitHub\GeekShopping\GeekShopping.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Vagner Araújo\Documents\GitHub\GeekShopping\GeekShopping.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Vagner Araújo\Documents\GitHub\GeekShopping\GeekShopping.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Vagner Araújo\Documents\GitHub\GeekShopping\GeekShopping.Web\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
