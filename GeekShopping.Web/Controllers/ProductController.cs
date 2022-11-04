@@ -91,7 +91,7 @@ namespace GeekShopping.Web.Controllers
         public async Task<IActionResult> Delete(ProductViewModel productVwm)
         {
             var token = await HttpContext.GetTokenAsync("access_token");
-            await _productService.DeleteProductById(productVwm.Id, token);
+            await _productService.DeleteProductById(productVwm.Id.Value, token);
             return RedirectToAction(nameof(Index));
         }
 
